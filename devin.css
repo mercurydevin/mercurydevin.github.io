@@ -11,13 +11,13 @@ a {
 
 a:hover {
 	color: blue;
-	transition-duration: 0.5s;
+	transition-duration: 2s;
 }
 
 body {
 	height: 100vh;
 	font-family: 'Indie Flower', cursive;
-	font-size: 1em;
+	font-size: 3em;
 }
 
 .paralax section {
